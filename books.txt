@@ -1,3 +1,5 @@
-Clean code
+﻿Clean code
 Spring in Action
 Sztuka podstępu
+Sztuka Wojny
+Spring in Action Lord of the MVc
